@@ -9,5 +9,5 @@ commonly used R134a for two remote locations.
 
 file description: 
 dataProcessingBholahat.m -- loading data and visualizing results
-refR152a.m -- Cycle Function
+refR152a.m -- thermodynamic cycle
 
