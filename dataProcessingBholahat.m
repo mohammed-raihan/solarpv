@@ -1,6 +1,6 @@
 %  Licensing:
 %
-%    This code is distributed under the GNU LGPL license.
+%    This code is distributed under the GNU GPL license.
 %
 %  Author:
 %
