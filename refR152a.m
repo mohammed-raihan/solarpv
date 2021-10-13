@@ -1,3 +1,15 @@
+%  Licensing:
+%
+%    This code is distributed under the GNU LGPL license.
+%
+%  Author:
+%
+%   Mohammed Raihan Uddin
+%
+% Paper:
+%
+%  https://doi.org/10.1016/j.ecmx.2021.100095
+
 function [wComp,qCond, cop] = refR152a (time, tAmb, irr ,rh)
 
 import py.CoolProp.CoolProp.PropsSI
