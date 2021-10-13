@@ -6,3 +6,8 @@ modelling with hourly cooling load calculations and the refrigeration cycle simu
 were carried out. The performance parameters for three environment-friendly
 refrigerants; R152a, R1234yf, and R1234ze(E) has been compared against the
 commonly used R134a for two remote locations.
+
+
+dataProcessingBholahat.m -- loading data and visualizing results
+refR152a.m -- Cycle Function
+
