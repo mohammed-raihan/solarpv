@@ -11,3 +11,4 @@ file description:
 dataProcessingBholahat.m -- loading data and visualizing results
 refR152a.m -- thermodynamic cycle
 
+Additional resource for setting up coolprop and python: http://dx.doi.org/10.13140/RG.2.2.27182.43847
